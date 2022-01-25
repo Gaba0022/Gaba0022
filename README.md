@@ -1,6 +1,6 @@
 ### Olá! Sou o Gabriel Martinho
 
-- 🔭 Hoje trabalho com Estágiario de TI
+- 🔭 Hoje trabalho como Estágiario de TI
 - 🌱 Estudando C#
 - 📫 Contate-me no email: gabriemartinh02@gmail.com
 <div align="center">
