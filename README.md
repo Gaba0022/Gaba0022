@@ -1,7 +1,7 @@
 ### Olá! Sou o Gabriel Martinho
 
-- 🔭 Hoje trabalho como Estágiario de TI
-- 🌱 Estudando C#
+- 🔭 Estudante de Ciência da Computação
+- 🌱 Estudando C# para Unity
 - 📫 Contate-me no email: gabriemartinh02@gmail.com
 <div align="center">
   <a href="https://github.com/Gaba0022">
