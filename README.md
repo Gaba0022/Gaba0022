@@ -1,8 +1,8 @@
 ### Olá! Sou o Gabriel Martinho
 
 - 🔭 Estudante de Ciência da Computação
-- 🌱 Estudando C# para Unity
-- 📫 Contate-me no email: gabriemartinh02@gmail.com
+- 🌱 Estagiário de Jogos
+- 📫 Contate-me no email: gabrielmartinho02@gmail.com
 <div align="center">
   <a href="https://github.com/Gaba0022">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaba0022&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
