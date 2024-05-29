@@ -1,7 +1,7 @@
 ### Olá! Sou o Gabriel Martinho
 
 - 🔭 Estudante de Ciência da Computação
-- 🌱 Estagiário de Jogos
+- 🌱 Desenvolvedor 
 - 📫 Contate-me no email: gabrielmartinho02@gmail.com
 <div align="center">
   <a href="https://github.com/Gaba0022">
