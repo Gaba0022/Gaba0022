@@ -15,10 +15,10 @@
 ---
 
 ## 🚀 Minhas habilidades
-- **Linguagens:** C#, Python, JavaScript
-- **Frameworks:** ASP.NET Core, Unity, Electron.js
+- **Linguagens:** C#, Python, JavaScript, Java
+- **Frameworks:** ASP.NET Core, Electron.js, AngulasJS, React
 - **Banco de dados:** MySQL, SQL Server
-- **Ferramentas e Tecnologias:** AWS, Docker, Git
+- **Ferramentas e Tecnologias:** AWS, Docker, Git / GitHub
 - **Experiência:** Desenvolvimento Full-Stack, Integração de sistemas backend com jogos, Criação de APIs REST
 
 ---
