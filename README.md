@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Gabriel Martinho
 
 - 🔭 Estudante de Ciência da Computação no 8° semestre da FEI
-- 💻 Desenvolvedor Full-Stack com foco em C# e Unity
+- 💻 Desenvolvedor Full-Stack com foco em C#
 - 🌱 Sempre buscando novos desafios e oportunidades para aprimorar minhas habilidades
 - 📫 Você pode me contatar em: **gabrielmartinho02@gmail.com**
 
