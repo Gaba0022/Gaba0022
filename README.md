@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Gabriel Martinho
 
 - 🔭 Formado em Ciência da Computação pela instituição FEI
-- 💻 Desenvolvedor Full-Stack com foco em C# e jogos
+- 💻 Desenvolvedor Full-Stack com foco em C# e Jogos
 - 🌱 Sempre buscando novos desafios e oportunidades para aprimorar minhas habilidades
 - 🎮 Link TCC: https://www.youtube.com/watch?v=nHhv70VDYgk
 - 📫 Você pode me contatar em: **gabrielmartinho02@gmail.com**
@@ -17,7 +17,8 @@
 
 ## 🚀 Minhas habilidades
 - **Linguagens:** C#, Python, JavaScript, Java
-- **Frameworks:** ASP.NET Core, Electron.js, AngulasJS, React
+- **Engines:** Unity, Unreal 5
+- **Frameworks:** .NET, ASP.NET, Electron.js, AngulasJS, React
 - **Banco de dados:** MySQL, SQL Server
 - **Ferramentas e Tecnologias:** AWS, Docker, Git / GitHub
 - **Experiência:** Desenvolvimento Full-Stack, Integração de sistemas backend com jogos, Criação de APIs REST
