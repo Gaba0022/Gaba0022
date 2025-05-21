@@ -1,10 +1,11 @@
 # 👋 Olá! Eu sou Gabriel Martinho
 
-- 🔭 Formado em Ciência da Computação pela instituição FEI
-- 💻 Desenvolvedor Full-Stack com foco em C# e Jogos
-- 🌱 Sempre buscando novos desafios e oportunidades para aprimorar minhas habilidades
-- 🎮 Link TCC: https://www.youtube.com/watch?v=nHhv70VDYgk
-- 📫 Você pode me contatar em: **gabrielmartinho02@gmail.com**
+- 🎓 **Bacharel em Ciência da Computação** pela FEI  
+- 💼 **Desenvolvedor de Software** com foco em **.NET, Java, Python, SQL e APIs RESTful**  
+- 🧠 Experiência em **backend, microserviços, arquitetura de software, bancos de dados relacionais e não relacionais**  
+- 🚀 Sempre em busca de novos desafios e oportunidades para crescer profissionalmente  
+- 🎓 Trabalho de Conclusão de Curso (TCC) — *Gamificação no Aprendizado Virtual*: [Assista aqui](https://www.youtube.com/watch?v=nHhv70VDYgk)  
+- 📫 **Contato:** gabrielmartinho02@gmail.com
 
 <div align="center">
   <a href="https://github.com/Gaba0022">
@@ -15,13 +16,24 @@
 
 ---
 
-## 🚀 Minhas habilidades
-- **Linguagens:** C#, Python, JavaScript, Java
-- **Engines:** Unity, Unreal 5
-- **Frameworks:** .NET, ASP.NET, Electron.js, AngulasJS, React
-- **Banco de dados:** MySQL, SQL Server
-- **Ferramentas e Tecnologias:** AWS, Docker, Git / GitHub
-- **Experiência:** Desenvolvimento Full-Stack, Integração de sistemas backend com jogos, Criação de APIs REST
+## 🚀 Minhas Habilidades
+
+- **Linguagens de Programação:** C#, Python, JavaScript, Java, Go  
+- **Game Engines:** Unity, Unreal Engine 5  
+- **Frameworks e Bibliotecas:** .NET, ASP.NET, AngularJS, React, Electron.js, Entity Framework  
+- **Bancos de Dados:** SQL Server, MySQL  
+- **Cloud:** AWS, Firebase  
+- **Ferramentas e Tecnologias:** Git/GitHub, Postman, Swagger, CI/CD (GitHub Actions, etc.)  
+- **Boas Práticas e Arquitetura:**  
+  - Princípios SOLID  
+  - Design Patterns  
+  - Arquitetura em camadas e microserviços  
+  - Desenvolvimento orientado a testes e versionamento de código  
+
+- **Experiência em:**  
+  - Desenvolvimento **Full Stack**, com forte atuação em **backend**  
+  - Integração de sistemas backend com **jogos e aplicações interativas**  
+  - Criação e consumo de APIs **RESTful**
 
 ---
 
